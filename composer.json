@@ -1,0 +1,13 @@
+{
+    "name": "crocos/php-treasure-data",
+    "description": "PHP Library for Treasure Data REST API",
+    "authors": [
+        {
+            "name": "Sotaro KARASAWA",
+            "email": "sotarok@crocos.co.jp"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "TreasureData": "src" }
+    }
+}
